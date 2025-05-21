@@ -1,8 +1,8 @@
-## 📬 AWS Lambda SQS Email Notifier
+## AWS Lambda SQS Email Notifier
 
 This project is a **Spring Boot application** designed to run within an **AWS Lambda environment**, triggered by **SQS messages**, to send **booking confirmation emails** via **AWS SES**.
 
-### ✨ Overview
+### Overview
 
 * The application is deployed as a **container-based Lambda function**.
 * It listens to an **Amazon SQS queue** for incoming JSON messages.
@@ -13,7 +13,7 @@ This project is a **Spring Boot application** designed to run within an **AWS La
   3. Selects and fills an **email template**.
   4. Sends the final email using **Amazon Simple Email Service (SES)**.
 
-### 💡 Technologies Used
+### Technologies Used
 
 * **Java 17**
 * **Spring Boot**
@@ -23,10 +23,3 @@ This project is a **Spring Boot application** designed to run within an **AWS La
 * **Jib (for container image builds)**
 * **Maven**
 
-### 🚀 Use Case
-
-Ideal for applications where booking or transactional data is queued and needs to trigger email workflows in a scalable, event-driven, serverless fashion.
-
----
-
-Would you like me to add badges, example payloads, architecture diagrams, or deployment instructions as well?
