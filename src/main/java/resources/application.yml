@@ -1,0 +1,8 @@
+# DB
+spring:
+  datasource:
+    hikari:
+      maximum-pool-size: 1
+    url: jdbc:mysql://localhost:3306/local
+    username: local
+    password: local

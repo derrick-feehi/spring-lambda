@@ -1,0 +1,14 @@
+/Users/derrickfeehi/fleet/spring-lambda/src/main/java/com.spring.lambda/model/EmailTemplate.java
+/Users/derrickfeehi/fleet/spring-lambda/src/main/java/com.spring.lambda/db/EmailTemplateService.java
+/Users/derrickfeehi/fleet/spring-lambda/src/main/java/com.spring.lambda/model/BookingRecord.java
+/Users/derrickfeehi/fleet/spring-lambda/src/main/java/com.spring.lambda/freemarker/FreemarkerTemplateBuilder.java
+/Users/derrickfeehi/fleet/spring-lambda/src/main/java/com.spring.lambda/config/AwsMailConfig.java
+/Users/derrickfeehi/fleet/spring-lambda/src/main/java/com.spring.lambda/db/BookingRecordRepository.java
+/Users/derrickfeehi/fleet/spring-lambda/src/main/java/com.spring.lambda/builder/EmailBuilder.java
+/Users/derrickfeehi/fleet/spring-lambda/src/main/java/com.spring.lambda/SqsLambdaApplication.java
+/Users/derrickfeehi/fleet/spring-lambda/src/main/java/com.spring.lambda/model/EmailEventMessage.java
+/Users/derrickfeehi/fleet/spring-lambda/src/main/java/com.spring.lambda/db/BookingRecordService.java
+/Users/derrickfeehi/fleet/spring-lambda/src/main/java/com.spring.lambda/service/EmailSender.java
+/Users/derrickfeehi/fleet/spring-lambda/src/main/java/com.spring.lambda/LambdaFunction.java
+/Users/derrickfeehi/fleet/spring-lambda/src/main/java/com.spring.lambda/config/FreemarkerConfig.java
+/Users/derrickfeehi/fleet/spring-lambda/src/main/java/com.spring.lambda/db/EmailTemplateRepository.java
