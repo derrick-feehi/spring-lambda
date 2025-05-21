@@ -1,7 +1,3 @@
-Here’s a clear and professional **project description** you can add to your GitHub `README.md`:
-
----
-
 ## 📬 AWS Lambda SQS Email Notifier
 
 This project is a **Spring Boot application** designed to run within an **AWS Lambda environment**, triggered by **SQS messages**, to send **booking confirmation emails** via **AWS SES**.
